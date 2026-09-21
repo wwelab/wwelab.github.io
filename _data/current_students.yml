@@ -28,8 +28,9 @@
   imageUrl: "YanZhang.jpg"
 
 - name: "Meow"
+  email: "miao@qq.com"
   description: |
-    我叫米奥,一只很萌的好猫,我擅长吃饭,我不是这个课题组的成员,我想来就来了. 对了，我的联系方式是miao@卸载了qq.com
+    我叫米奥，一只很萌的好猫，我擅长吃饭，我不是这个课题组的成员，我想来就来了。对了，我的联系方式是miao@qq.com。
   imageUrl: "Miao.jpg"
 
 - name: "Siyong Wu"
