@@ -1,9 +1,9 @@
 - name: "Yu Liu"
-  email: "liuyu21@m.fudan.edu.cn"
+  email: "liuyupsy@gmail.com"
   description: |
-    Liu Yu has graduated from the Departmental and Educational of Psychology at Southwest University as a master. 
-    He's studying for his PhD in The Institute of Science and Technology for Brain-inspired Intelligence at Fudan University. 
-    Her current research focuses on adolescent development and psychiatry.
+    Yu Liu's research focuses on how the brain develops during childhood and adolescence, and how this process is shaped by the environment.
+    Their work also explores how developmental differences may be related to mental health and psychiatric conditions.
+    To study these questions, Yu Liu uses a combination of neuroimaging, behavioral data, and computational methods.
   imageUrl: "YuLiu.jpg"
 
 - name: "Jun Hu"
@@ -39,3 +39,12 @@
   email: "none"
   description: "cpdd"
   imageUrl: "YiZhang.jpg"
+
+- name: "Shengyan He"
+  email: "hsy1234@email.swu.edu.cn"
+  description: |
+    He Shengyan received her Master's degree in Developmental and Educational Psychology from Southwest University.
+    She completed her bachelor's degree in Applied Psychology at Southwest University. Her research focused on emotion conceptual representation and its neural mechanisms.
+    The work examined the generation and development of emotional concepts from a foundational perspective.
+  imageUrl: "ShengyanHe.jpg"
+
